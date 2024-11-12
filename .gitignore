@@ -1,0 +1,16 @@
+#
+# .gitignore
+#
+
+## BACKUP & TEMP FILES ##
+
+*~
+*.bak
+*.tmp
+
+
+## BUILD OUTPUTS ##
+
+build-*/
+build*/
+build/
